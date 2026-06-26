@@ -1,0 +1,4 @@
+interface:
+  display_name: "迟到的答案 Remotion 小熊视频"
+  short_description: "将概念寓言生成图文同风格、旁白字幕逐字同步的竖版视频"
+  default_prompt: "请用 $late-answer-remotion-bear-video 把这篇概念寓言生成带自然旁白和逐字同步字幕的竖版视频。"
